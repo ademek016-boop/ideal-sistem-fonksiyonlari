@@ -1,0 +1,2 @@
+# ideal-sistem-fonksiyonlari
+
